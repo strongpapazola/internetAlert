@@ -17,4 +17,4 @@ while True:
  else:
   data = ''
  if data == 'true':
-  system('play -q error.mp3 &')
+  system('play -q error.mp3')
